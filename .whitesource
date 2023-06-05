@@ -28,6 +28,10 @@
   "remediateSettings": {
     "workflowRules": {
       "enabled": true
-    }
+
+    },
+   "enableRenovate": true,
+
+   "dependencyDashboard" :true
   }
 }
